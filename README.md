@@ -1,39 +1,51 @@
-# 👋 Hi there, I'm Rohit Shetty
+<p align="center">
+  <img src="https://your-banner-image-url" width="100%" alt="banner" />
+</p>
 
-🎓 **MS in Computer Science @ USC**  
-💡 Software Engineer | Full Stack Developer | AI/ML Enthusiast  
-🌐 Based in Los Angeles | 💼 Open to internships for Summer 2026  
+<h1 align="center">RohitShetty.dev</h1>
+
+<p align="center">
+  <b>Software Engineer | Full Stack Developer | AI/ML Enthusiast</b><br/>
+  🎓 MS in Computer Science @ USC<br/>
+  🌍 Based in Los Angeles | 💼 Open to Summer 2026 Internships<br/>
+  📬 <a href="mailto:rshetty@usc.edu">rshetty@usc.edu</a><br/>
+  🚀 Portfolio: Coming Soon
+</p>
+
+<p align="center">
+  <a href="https://github.com/shettyrohit0810"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
-I'm a passionate developer with hands-on experience in building intelligent systems, scalable web apps, and data-driven AI models. I'm currently pursuing my MS in Computer Science at the University of Southern California, focusing on AI, cloud, and full stack development.
+I'm a passionate developer with hands-on experience in building intelligent systems, scalable web apps, and data-driven AI models. Currently pursuing my MS in Computer Science at the University of Southern California, I focus on AI, cloud technologies, and full-stack development.
 
 ---
 
-## 🔧 Tech Stack
+### 🔧 Tech Stack
 
 **Languages**: Python, Java, JavaScript, SQL, Kotlin  
 **Frameworks**: React, Node.js, Flask  
 **Databases**: MySQL, MongoDB  
-**Cloud Platforms**: GCP, Azure, AWS  
-**Tools**: Git, Docker, Power BI
+**Cloud**: GCP, Azure, AWS  
+**Tools**: Git, Docker, Power BI  
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-- 🎵 [Melody Generator](#): AI-generated music using RNN-LSTM trained on MIDI data  
-- 🧠 [Stroke Risk Predictor](#): DNN classifier with 92% accuracy using SMOTE balancing  
-- 🤖 [Azure AI Chatbot](#): Intelligent chatbot using Azure OpenAI & SQL backend  
-- 💳 [B2B Payment Automation](#): M-Pesa integration and API backend for fintech automation  
-
-> 📚 Explore more in my pinned repositories or [GitHub Projects](https://github.com/shettyrohit0810)
+- 🎵 **Melody Generator**: AI-generated music using RNN-LSTM trained on MIDI data  
+- 🧠 **Stroke Risk Predictor**: DNN classifier with 92% accuracy using SMOTE balancing  
+- 🤖 **Azure AI Chatbot**: Intelligent chatbot using Azure OpenAI & SQL backend  
+- 💳 **B2B Payment Automation**: M-Pesa integration and API backend for fintech automation  
+- 🔎 Explore more in my pinned repositories or GitHub Projects
 
 ---
 
-## 🏅 Highlights
+### 🏅 Highlights
 
 - 🏆 Best Technical Presentation – IEEE (Stroke Risk Prediction)  
 - 📜 Published in Springer – AI Melody Generation Research  
@@ -41,13 +53,6 @@ I'm a passionate developer with hands-on experience in building intelligent syst
 
 ---
 
-## 📫 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shettyrohit0810-blue?logo=linkedin)](https://linkedin.com/in/shettyrohit0810)  
-📬 Email: [rshetty@usc.edu](mailto:rshetty@usc.edu)  
-💼 Portfolio: Coming Soon...
-
----
-
-> *“Building tech that matters — from AI to full stack, one commit at a time.”*
-
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/contributors/octodex.gif" width="200" alt="Octocat" />
+</p>
