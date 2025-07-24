@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/shettyrohit0810/shettyrohit0810/blob/main/Rohit%20Shetty%20-%20LinkedIn%20Banner.png?raw=true" width="100%" alt="Rohit Shetty Banner"/>
+  <img src="https://github.com/shettyrohit0810/banner/blob/3276de19e846a7bb7b9b989ee049c573e5befe16/Rohit%20Shetty%20-%20LinkedIn%20Banner.png?raw=true" width="100%" alt="Rohit Shetty Banner"/>
 </p>
+
 
 
 <h1 align="center">RohitShetty.dev</h1>
