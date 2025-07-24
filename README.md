@@ -12,11 +12,11 @@ I’m a Full Stack Developer and MS CS student at USC with experience in buildin
 - ✨ Passionate about lifelong learning & tech that makes lives better  
 - 🌱 Currently learning advanced MLOps and system design  
 - 🧠 Built AI tools like a Stroke Risk Predictor & Melody Generator (Springer published)  
-- 🧾 Contributor to open source and active learner in developer communities  
-- 🚀 Always open to impactful internship opportunities for **Summer 2026**  
+- 💻 Contributor to open source and active learner in developer communities  
+- 🚀 Open to impactful internship opportunities for **Summer 2026**  
 - 🧳 Portfolio: *Coming Soon*  
 - 📫 Email me at [rshetty@usc.edu](mailto:rshetty@usc.edu)
 
 <p align="right">
-  <img src="https://github.com/shettyrohit0810/banner/blob/main/celebration-owl.png?raw=true" width="200" alt="Celebration Owl"/>
+  <img src="https://github.com/shettyrohit0810/banner/blob/026bf8b6caab6a785a5c113b821759faf9cc65e6/Owl%20Github%20Readme.png?raw=true" width="200" alt="Celebration Owl"/>
 </p>
