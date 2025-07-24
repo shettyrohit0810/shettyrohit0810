@@ -22,6 +22,8 @@ I'm a <b>Full Stack Developer</b> and <b>MS CS student at USC</b> with professio
 - 🌐 Portfolio: <a href="https://rohitshetty.netlify.app" target="_blank"><b>rohitshetty.netlify.app</b></a>  
 - 📫 Reach me at <a href="mailto:rshetty@usc.edu">rshetty@usc.edu</a> | <a href="https://linkedin.com/in/shettyrohit0810">LinkedIn</a>
 
+<hr style="height: 4px; background-color: #3b3f45; border: none; margin: 30px 0;" />
+
 
 <h2 align="center">🛠️ <b>Tech Stack & Current Learning</b></h2>
 
