@@ -28,7 +28,7 @@ I'm a <b>Full Stack Developer</b> and <b>MS CS student at USC</b> with professio
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="https://github.com/shettyrohit0810/banner/blob/main/tech-circle.png?raw=true" alt="Tech Stack" width="250"/>
+  <img src="https://github.com/Suhaib3100/Suhaib3100/blob/main/Skills_Animation_Dark.gif?raw=true" alt="Tech Stack Animation" width="300"/>
 </td>
 <td width="50%">
 
@@ -36,12 +36,12 @@ I'm a <b>Full Stack Developer</b> and <b>MS CS student at USC</b> with professio
 
 - 🚀 Expanding expertise in <b>Next.js</b> and <b>multimodal RAG systems</b>  
 - 🧠 Deepening <b>MLOps</b> knowledge and model deployment pipelines  
-- 🛠️ Building intelligent UIs using <b>OpenAI APIs</b> and <b>Typebot</b>  
-- ☁️ Exploring serverless architecture on <b>AWS Lambda & Firebase Functions</b>  
-- 🧩 Enhancing microservices with <b>REST APIs</b> and auth via <b>JWT</b>  
+- 🤖 Building intelligent UIs using <b>OpenAI APIs</b> and <b>Typebot</b>  
+- ☁️ Exploring serverless architecture on <b>AWS Lambda</b> & <b>Firebase Functions</b>  
+- 🧩 Enhancing microservices with <b>REST APIs</b> and <b>JWT-based auth</b>  
 - 🧾 Working with <b>SQL & NoSQL databases</b> (PostgreSQL, MongoDB, Firebase)  
-- 🔐 Understanding domain management, <b>SSL setup</b>, and secure deployments  
-- 📦 Learning to orchestrate CI/CD workflows via <b>GitHub Actions</b> and Docker  
+- 🔐 Managing <b>domains, SSL certs</b>, and production-ready GCP/AWS deployments  
+- ⚙️ Automating CI/CD with <b>GitHub Actions</b> & <b>Docker</b>  
 
 </td>
 </tr>
