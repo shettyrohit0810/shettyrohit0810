@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://your-banner-image-url" width="100%" alt="banner" />
+  <img src="https://github.com/shettyrohit0810/shettyrohit0810/blob/main/Rohit%20Shetty%20-%20LinkedIn%20Banner.png?raw=true" width="100%" alt="Rohit Shetty Banner"/>
 </p>
+
 
 <h1 align="center">RohitShetty.dev</h1>
 
