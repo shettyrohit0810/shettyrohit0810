@@ -21,3 +21,28 @@ I'm a <b>Full Stack Developer</b> and <b>MS CS student at USC</b> with professio
 - 🚀 Open to Software Engineering and AI/ML internships for <b>Summer 2026</b>  
 - 🌐 Portfolio: <a href="https://rohitshetty.netlify.app" target="_blank"><b>rohitshetty.netlify.app</b></a>  
 - 📫 Reach me at <a href="mailto:rshetty@usc.edu">rshetty@usc.edu</a> | <a href="https://linkedin.com/in/shettyrohit0810">LinkedIn</a>
+
+
+<h2 align="center">🛠️ <b>Tech Stack & Current Learning</b></h2>
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://github.com/shettyrohit0810/banner/blob/main/tech-circle.png?raw=true" alt="Tech Stack" width="250"/>
+</td>
+<td width="50%">
+
+<h4><b>Current Learning</b></h4>
+
+- 🚀 Expanding expertise in <b>Next.js</b> and <b>multimodal RAG systems</b>  
+- 🧠 Deepening <b>MLOps</b> knowledge and model deployment pipelines  
+- 🛠️ Building intelligent UIs using <b>OpenAI APIs</b> and <b>Typebot</b>  
+- ☁️ Exploring serverless architecture on <b>AWS Lambda & Firebase Functions</b>  
+- 🧩 Enhancing microservices with <b>REST APIs</b> and auth via <b>JWT</b>  
+- 🧾 Working with <b>SQL & NoSQL databases</b> (PostgreSQL, MongoDB, Firebase)  
+- 🔐 Understanding domain management, <b>SSL setup</b>, and secure deployments  
+- 📦 Learning to orchestrate CI/CD workflows via <b>GitHub Actions</b> and Docker  
+
+</td>
+</tr>
+</table>
