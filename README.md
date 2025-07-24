@@ -37,18 +37,20 @@ I'm a <b>Full Stack Developer</b> and <b>MS CS student at USC</b> with professio
   <!-- Right Side: Learning List -->
   <div style="max-width: 500px;">
 
-  <h4><b>Current Learning</b></h4>
+<h2>🧠 Tech Stack & Skills</h2>
 
-  <ul>
-    <li>🚀 Expanding expertise in <b>Next.js</b> and <b>multimodal RAG systems</b></li>
-    <li>🧠 Deepening <b>MLOps</b> knowledge and model deployment pipelines</li>
-    <li>🤖 Building intelligent UIs using <b>OpenAI APIs</b> and <b>Typebot</b></li>
-    <li>☁️ Exploring serverless architecture on <b>AWS Lambda</b> & <b>Firebase Functions</b></li>
-    <li>🔧 Enhancing microservices with <b>REST APIs</b> and <b>JWT-based auth</b></li>
-    <li>🧾 Working with <b>SQL & NoSQL databases</b> (PostgreSQL, MongoDB, Firebase)</li>
-    <li>🔐 Managing <b>domains, SSL certs</b>, and production-ready <b>GCP/AWS</b> deployments</li>
-    <li>⚙️ Automating <b>CI/CD</b> with <b>GitHub Actions</b> & <b>Docker</b></li>
-  </ul>
+**👨‍💻 Languages**  
+Python · Java · Kotlin · JavaScript · TypeScript · SQL · HTML/CSS · Bash · C++
 
-  </div>
-</div>
+**⚙️ Frameworks & Libraries**  
+React · Angular · Node.js · Flask · Express · Jetpack Compose · Pandas · NumPy · Matplotlib
+
+**🗄️ Databases**  
+MySQL · MongoDB · Firebase · PostgreSQL
+
+**☁️ Cloud & DevOps**  
+Google Cloud Platform (App Engine, Firestore) · AWS (EC2, S3, Lambda, DynamoDB) · Azure (Databricks)  
+Git · GitHub · Docker · Postman · Jupyter · VS Code · GitHub Actions · Linux
+
+**📡 Technologies & Concepts**  
+REST APIs · JWT Auth · Webhooks · SMOTE · Responsive Design · Agile/Scrum · JSON · YAML
