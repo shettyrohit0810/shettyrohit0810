@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/shettyrohit0810/banner/blob/3276de19e846a7bb7b9b989ee049c573e5befe16/Rohit%20Shetty%20-%20LinkedIn%20Banner.png?raw=true" width="500%" alt="Rohit Shetty Banner"/>
+  <img src="https://github.com/shettyrohit0810/banner/blob/3276de19e846a7bb7b9b989ee049c573e5befe16/Rohit%20Shetty%20-%20LinkedIn%20Banner.png?raw=true" width="100%" alt="Rohit Shetty Banner"/>
 </p>
 
 ## 😎 I'm Rohit!
 
 *Digital Craftsman (Software Engineer / Full Stack Developer / AI Enthusiast)*
 
-<img src="https://github.com/shettyrohit0810/banner/blob/main/Owl%20Github%20Readme.png?raw=true" align="right" width="200" alt="Celebration Owl"/>
+<img src="https://github.com/shettyrohit0810/banner/blob/main/Owl%20Github%20Readme.png?raw=true" align="right" width="400" alt="Celebration Owl"/>
 
 I’m a Full Stack Developer and MS CS student at USC with experience in building intelligent systems, scalable web applications, and AI/ML pipelines. I enjoy blending code with creativity and leveraging cloud platforms like GCP, Azure, and AWS to deploy real-world solutions.
 
