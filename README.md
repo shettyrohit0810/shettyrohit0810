@@ -54,3 +54,20 @@ Git · GitHub · Docker · Postman · Jupyter · VS Code · GitHub Actions · Li
 
 **📡 Technologies & Concepts**  
 REST APIs · JWT Auth · Webhooks · SMOTE · Responsive Design · Agile/Scrum · JSON · YAML
+
+
+
+<hr style="height: 4px; background-color: #3b3f45; border: none; margin: 40px 0;" />
+## 🏅 Honors & Leadership
+
+- 🏆 **IEEE Best Technical Presentation** (500+ audience)  
+  Presented Stroke Risk Prediction System, showcasing technical and communication skills
+
+- 📖 **Published Research** in Springer  
+  Melody Generation using Deep Learning models for creative AI applications
+
+- 🧠 **Government of India Copyrights**  
+  Awarded for Stroke Risk Prediction and AI Melody Generator projects
+
+- 👥 **Treasurer & PR Officer – SOW DY Patil**  
+  Led 15+ events, boosting leadership, collaboration, and outreach experience
