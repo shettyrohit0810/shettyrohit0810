@@ -6,7 +6,7 @@
 
 *Digital Craftsman (Software Engineer / Full Stack Developer / AI/ML Enthusiast)*
 
-<img src="https://github.com/shettyrohit0810/banner/blob/main/Owl%20Github%20Readme.png?raw=true" align="right" width="300" alt="Celebration Owl"/>
+<img src="https://github.com/shettyrohit0810/banner/blob/main/Owl%20Github%20Readme.png?raw=true" align="right" width="250" alt="Celebration Owl"/>
 
 I'm a Full Stack Developer and MS CS student at USC with professional experience across fintech, AI, and platform engineering. I’ve delivered production-grade systems for real-time financial transactions, intelligent resume screening, and cloud-native web apps — with a strong focus on AI/ML, REST APIs, and scalable architecture.
 
