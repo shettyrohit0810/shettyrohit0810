@@ -25,24 +25,28 @@ I'm a <b>Full Stack Developer</b> and <b>MS CS student at USC</b> with professio
 
 <h2 align="center">🛠️ <b>Tech Stack & Current Learning</b></h2>
 
-<table>
-<tr>
-<td align="center" width="50%">
-  <img src="https://github.com/Suhaib3100/Suhaib3100/blob/main/Skills_Animation_Dark.gif?raw=true" alt="Tech Stack Animation" width="300"/>
-</td>
-<td width="50%">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 40px;">
 
-<h4><b>Current Learning</b></h4>
+  <!-- Left Side: Animated Tech Stack GIF -->
+  <div align="center">
+    <img src="https://github.com/Suhaib3100/Suhaib3100/blob/main/Skills_Animation_Dark.gif?raw=true" alt="Tech Stack" width="300"/>
+  </div>
 
-- 🚀 Expanding expertise in <b>Next.js</b> and <b>multimodal RAG systems</b>  
-- 🧠 Deepening <b>MLOps</b> knowledge and model deployment pipelines  
-- 🤖 Building intelligent UIs using <b>OpenAI APIs</b> and <b>Typebot</b>  
-- ☁️ Exploring serverless architecture on <b>AWS Lambda</b> & <b>Firebase Functions</b>  
-- 🧩 Enhancing microservices with <b>REST APIs</b> and <b>JWT-based auth</b>  
-- 🧾 Working with <b>SQL & NoSQL databases</b> (PostgreSQL, MongoDB, Firebase)  
-- 🔐 Managing <b>domains, SSL certs</b>, and production-ready GCP/AWS deployments  
-- ⚙️ Automating CI/CD with <b>GitHub Actions</b> & <b>Docker</b>  
+  <!-- Right Side: Learning List -->
+  <div style="max-width: 500px;">
 
-</td>
-</tr>
-</table>
+  <h4><b>Current Learning</b></h4>
+
+  <ul>
+    <li>🚀 Expanding expertise in <b>Next.js</b> and <b>multimodal RAG systems</b></li>
+    <li>🧠 Deepening <b>MLOps</b> knowledge and model deployment pipelines</li>
+    <li>🤖 Building intelligent UIs using <b>OpenAI APIs</b> and <b>Typebot</b></li>
+    <li>☁️ Exploring serverless architecture on <b>AWS Lambda</b> & <b>Firebase Functions</b></li>
+    <li>🔧 Enhancing microservices with <b>REST APIs</b> and <b>JWT-based auth</b></li>
+    <li>🧾 Working with <b>SQL & NoSQL databases</b> (PostgreSQL, MongoDB, Firebase)</li>
+    <li>🔐 Managing <b>domains, SSL certs</b>, and production-ready <b>GCP/AWS</b> deployments</li>
+    <li>⚙️ Automating <b>CI/CD</b> with <b>GitHub Actions</b> & <b>Docker</b></li>
+  </ul>
+
+  </div>
+</div>
