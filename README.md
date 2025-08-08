@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/shettyrohit0810/banner/blob/main/Rohit%20Shetty%20-%20LinkedIn%20Banner.png?raw=true" width="100%" alt="Rohit Shetty Banner"/>
-</p>
+[![Rohit Shetty Banner](https://github.com/shettyrohit0810/banner/blob/main/Rohit%20Shetty%20-%20LinkedIn%20Banner.png?raw=true)](https://linkedin.com/in/shettyrohit0810)
+
 
 
 
